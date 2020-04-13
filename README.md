@@ -1,2 +1,2 @@
 # openjdk11-hashi
-Docker Image that applies HashiStack upon openjdk11 image
+An unofficial dockerfile that applies [HashiStack](http://www.hashicorp.com) upon openjdk11 image
